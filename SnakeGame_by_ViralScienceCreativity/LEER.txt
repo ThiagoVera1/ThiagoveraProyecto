@@ -1,0 +1,5 @@
+ATENCIÓN:
+    ESTE CÓDIGO NO ES ELABORACIÓN DE NICOLÁS NIETO
+    ESTE CÓDIGO HA SIDO DESCARGADO DE LA PÁGINA: https://www.viralsciencecreativity.com/post/arduino-snake-game-8x8-matrix-led-display-max7219
+    SOLO HA SIDO DESCARGADO CON EL PROPÓSITO DE VERIFICAR SU FUNCIONAMIENTO EN LA MATRIZ LED
+    SE HAN MODIFICADO PARTE DEL MISMO PARA MANTENER CIERTA COHERENCIA (debido a que el código fue desarrollado para trabajar en un Arduino Nano)
